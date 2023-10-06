@@ -2,3 +2,5 @@ dit is een voorbeeld
 is een voorbeeld
 een voorbeeld
 voorbeeld
+
+Dit is een extra voorbeeld.
